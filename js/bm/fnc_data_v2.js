@@ -1,4 +1,4 @@
-﻿// 2008/7/3 Scripted by K-Factory@migiwa
+// 2008/7/3 Scripted by K-Factory@migiwa
 // 2009/1/27 Modified by K-Factory@migiwa
 // 2025/10/10 coldrain Fork by IustinPro
 
@@ -38,8 +38,16 @@ var ary_TitleData = [
 //   "キャラクター名", "画像（空白の場合、キャラクター名が使用されます）"
 //                                      [1,2,3,4,5,6,7,8,9,
 var ary_CharacterData = [
-// Until The End
-[1, "House Of Cards", [1], "crsong/cr_ute.jpg"],
+// Mods
+[1, "Shelly", [1], "mods/S.png"],
+[1, "Dartais", [1], "mods/D.png"],
+[1, "EraYan", [1], "mods/OG.png"],
+[1, "FunnyToss", [1], "mods/FT.png"],
+[1, "Bonk", [1], "mods/Tank.png"],
+[1, "Paul", [1], "mods/P.png"],
+[1, "Sane", [1], "mods/Fake.png"],
+[1, "Bunny", [1], "mods/B.png"],
+[1, "PVNIC", [1], "mods/PV.png"],
+[1, "Depresso", [1], "mods/Dep.png"],
 
-  
 ];
