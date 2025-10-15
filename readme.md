@@ -1,17 +1,7 @@
-# Coldrain Sorter
+# BMcord Mod Sorter
 
-A fork of Sakura Gakuin Sorter.
+A fork of Sakura Gakuin Sorter, based on coldrain Song Sorter HTML
 
 Steps to Use:
 Simply open the linked website
-https://iustinpro.github.io/coldrain-song-sorter/
-
-For Mobile use please use desktop mode, formating in mobile is a bit funny at the moment!
-Fair Warning this sorter has 100+ songs and needs 400+ battles (if not more), this will take a very long time!
-
-### to do
-
-* get website domain and server to store data
-* fix red stuck on hover
-* make album select look better
-* make all images same size in results
+https://iustinpro.github.io/BMcord-Mod-Sorter/
